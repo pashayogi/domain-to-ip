@@ -1,2 +1,1 @@
-# domain-to-ip
-domain-to-ip
+buka file ips.txt lalu masukan domain yang ingin di convert ke ip
